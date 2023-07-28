@@ -8,7 +8,11 @@ body{
   background: #100f0f;
   color: #ffffff;
   background-size: fixed;
+  background-image: url(images/bg2.png);
 }
+
+
+
 .hbd-container{
   margin-top: 100px;
   margin-left: 370px;
@@ -326,6 +330,14 @@ body{
   margin-top: 30px;
   margin-left: 675px;
 }
+.btn{
+  color: white;
+}
+.btncolor{
+  color: white;
+  text-decoration: none;
+}
+
 button {
   position: relative;
   padding: 12px 35px;
